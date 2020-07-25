@@ -14,3 +14,5 @@ Kritické bezpečnostní aktualizace redakčního systému a doplňků jsou prov
 Klienti s uzavřenou SLA dohodou jsou upřednostňováni při vyřizování požadavků a rozšiřování webu.
 
 V případě uzavření měsíčního SLA nad 4 hod. je požadováno uzavření smlouvy.
+
+Query je pojištěno proti odpovědnosti IT

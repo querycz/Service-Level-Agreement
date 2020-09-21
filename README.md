@@ -1,7 +1,7 @@
 # Správa a technický dohled 🔎
 
 Technická správa a podpora zahrnuje
-- pravidelnou kontrolu webu,
+- pravidelnou kontrolu dostupnosti webu,
 - prioritní technickou podporu,
 - pravidelné zálohování aplikace a databáze nad rámec serverových záloh,
 - pravidelné aktualizace redakčního systému,

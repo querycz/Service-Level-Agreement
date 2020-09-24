@@ -15,4 +15,4 @@ Klienti s uzavřenou SLA dohodou jsou upřednostňováni při vyřizování pož
 
 V případě uzavření měsíčního SLA nad 4 hod. je požadováno uzavření smlouvy.
 
-Query je pojištěno proti odpovědnosti IT
+Query je pojištěno proti odpovědnosti IT.

@@ -1,11 +1,11 @@
 # Správa a technický dohled 🔎
 
 Technická správa a podpora zahrnuje
-- pravidelnou kontrolu dostupnosti webu,
 - prioritní technickou podporu,
-- pravidelné zálohování aplikace a databáze nad rámec serverových záloh,
-- pravidelné aktualizace redakčního systému,
-- pravidelné aktualizace doplňků redakčního systému a následné kontroly jejich funkčnosti.
+- pravidelnou kontrolu dostupnosti webu,
+- pravidelné zálohování aplikace a databáze,
+- pravidelné aktualizace redakčního systému WordPress,
+- pravidelné aktualizace doplňků redakčního systému WordPress.
 
 Pro správu WordPress instalací je použit terminál, který nabízí přehled aktuálních verzí WordPress a příslušných pluginů. 
 

@@ -9,7 +9,7 @@ Technická správa a podpora zahrnuje
 
 Pro správu WordPress instalací je použit terminál, který nabízí přehled aktuálních verzí WordPress a příslušných pluginů. 
 
-Kritické bezpečnostní aktualizace redakčního systému a doplňků jsou prováděny bezodkladně, běžné aktualizace jsou prováděny minimálně 1× měsíčně.
+Kritické bezpečnostní aktualizace redakčního systému a doplňků jsou prováděny bezodkladně, běžné aktualizace jsou prováděny 4× měsíčně.
 
 Klienti s uzavřenou SLA dohodou jsou upřednostňováni při vyřizování požadavků a rozšiřování webu.
 

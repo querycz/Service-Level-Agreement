@@ -11,7 +11,7 @@ Pro správu WordPress instalací je použit terminál, který nabízí přehled 
 
 Kritické bezpečnostní aktualizace redakčního systému a doplňků jsou prováděny bezodkladně, běžné aktualizace jsou prováděny 4× měsíčně.
 
-Klienti s uzavřenou SLA dohodou jsou upřednostňováni při vyřizování požadavků a rozšiřování webu.
+Projekty s uzavřenou SLA dohodou jsou upřednostňováni při vyřizování požadavků a rozšiřování webu.
 
 V případě uzavření měsíčního SLA nad 4 hod. je požadováno uzavření smlouvy.
 

@@ -7,6 +7,10 @@ Technická správa a podpora zahrnuje
 - pravidelné aktualizace redakčního systému WordPress,
 - pravidelné aktualizace doplňků redakčního systému WordPress.
 
+Volitelné kontroly zahrnují:
+- pravidelnou kontrolu nefunkčních odkazů (položek s kódem 404),
+- pravidelnou kontrolu výkonu.
+
 Pro správu WordPress instalací je použit terminál, který nabízí přehled aktuálních verzí WordPress a příslušných pluginů. 
 
 Kritické bezpečnostní aktualizace redakčního systému a doplňků jsou prováděny bezodkladně, běžné aktualizace jsou prováděny 4× měsíčně.

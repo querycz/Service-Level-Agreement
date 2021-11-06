@@ -7,7 +7,7 @@ Technická správa a podpora zahrnuje
 - pravidelné aktualizace redakčního systému WordPress,
 - pravidelné aktualizace doplňků redakčního systému WordPress.
 
-Volitelné kontroly zahrnují:
+Volitelné kontroly zahrnují
 - pravidelnou kontrolu nefunkčních odkazů (položek s kódem 404),
 - pravidelnou kontrolu rychosti/výkonu.
 

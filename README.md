@@ -9,7 +9,7 @@ Technická správa a podpora zahrnuje
 
 Volitelné kontroly zahrnují:
 - pravidelnou kontrolu nefunkčních odkazů (položek s kódem 404),
-- pravidelnou kontrolu výkonu.
+- pravidelnou kontrolu rychosti/výkonu.
 
 Pro správu WordPress instalací je použit terminál, který nabízí přehled aktuálních verzí WordPress a příslušných pluginů. 
 

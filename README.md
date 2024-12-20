@@ -3,18 +3,19 @@
 Technická správa a podpora zahrnuje
 - prioritní technickou podporu,
 - pravidelnou kontrolu dostupnosti webu,
-- pravidelné zálohování aplikace a databáze,
+- pravidelné zálohování aplikace a databáze nad rámec serverových záloh,
 - pravidelné aktualizace redakčního systému WordPress,
-- pravidelné aktualizace doplňků redakčního systému WordPress.
+- pravidelné aktualizace doplňků redakčního systému WordPress,
+- pravidelná kontrola zranitelností aplikace.
 
 Volitelné kontroly zahrnují
 - pravidelnou kontrolu kontaktních formulářů,
 - pravidelnou kontrolu nefunkčních odkazů (položek s kódem 404),
 - pravidelnou kontrolu rychosti/výkonu.
 
-Pro správu WordPress instalací je použit terminál, který nabízí přehled aktuálních verzí WordPress a příslušných pluginů. 
+Pro správu WordPress instalací je použit terminál, který nabízí přehled aktuálních verzí CMS WordPress a příslušných pluginů. 
 
-Kritické bezpečnostní aktualizace redakčního systému a doplňků jsou prováděny bezodkladně, běžné aktualizace jsou prováděny 4× měsíčně.
+Kritické bezpečnostní aktualizace CMS a doplňků jsou prováděny bezodkladně, běžné aktualizace jsou prováděny 4× měsíčně.
 
 Projekty s uzavřenou SLA dohodou jsou upřednostňováni při vyřizování požadavků a rozšiřování webu.
 

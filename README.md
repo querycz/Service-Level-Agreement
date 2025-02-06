@@ -9,6 +9,7 @@ Technická správa a podpora zahrnuje
 - pravidelná kontrola zranitelností aplikace.
 
 Volitelné kontroly zahrnují
+- pravidelný týdenní reporting (dostupnost webu, návštěvnost webu, proběhlé aktualizace, proběhlé zálohy),
 - pravidelnou kontrolu kontaktních formulářů,
 - pravidelnou kontrolu nefunkčních odkazů (položek s kódem 404),
 - pravidelnou kontrolu rychosti/výkonu.

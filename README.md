@@ -6,7 +6,8 @@ Technická správa a podpora zahrnuje
 - pravidelné zálohování aplikace a databáze nad rámec serverových záloh,
 - pravidelné aktualizace redakčního systému WordPress,
 - pravidelné aktualizace doplňků redakčního systému WordPress,
-- pravidelná kontrola zranitelností aplikace.
+- pravidelná kontrola zranitelností aplikace,
+- pravidelná kontrola expirace SSL certifikátu.
 
 Volitelné kontroly zahrnují
 - pravidelný týdenní reporting (dostupnost webu, návštěvnost webu, proběhlé aktualizace, proběhlé zálohy),

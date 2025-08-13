@@ -1,4 +1,4 @@
-# Správa a technický dohled 🔎
+# 🔎 Správa a technický dohled
 
 Technická správa a podpora zahrnuje
 - prioritní technickou podporu,

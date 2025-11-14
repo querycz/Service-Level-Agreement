@@ -11,7 +11,7 @@ Technická správa a podpora zahrnuje
 
 Volitelné kontroly zahrnují
 - pravidelný týdenní reporting (dostupnost webu, návštěvnost webu, proběhlé aktualizace, proběhlé zálohy),
-- pravidelné e2e smoke testing po deployi nových verzí,
+- pravidelné e2e smoke testování po deployi nových verzí,
 - pravidelnou kontrolu kontaktních formulářů,
 - pravidelnou kontrolu nefunkčních odkazů (položek s kódem 404),
 - pravidelnou kontrolu rychosti/výkonu.

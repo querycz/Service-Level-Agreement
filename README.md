@@ -1,6 +1,6 @@
 # 🔎 Správa a technický dohled
 
-Technická správa a podpora zahrnuje
+## Technická správa a podpora zahrnuje
 - prioritní technickou podporu,
 - pravidelnou kontrolu dostupnosti webu,
 - pravidelné zálohování aplikace a databáze nad rámec serverových záloh,
@@ -9,8 +9,9 @@ Technická správa a podpora zahrnuje
 - pravidelná kontrola zranitelností aplikace,
 - pravidelná kontrola expirace SSL certifikátu.
 
-Volitelné kontroly zahrnují
+## Volitelné kontroly zahrnují
 - pravidelný týdenní reporting (dostupnost webu, návštěvnost webu, proběhlé aktualizace, proběhlé zálohy),
+- nastavení analytiky návštěvnosti na rámex Google Analytics,
 - pravidelné e2e smoke testování po deployi nových verzí,
 - pravidelnou kontrolu kontaktních formulářů,
 - pravidelnou kontrolu nefunkčních odkazů (položek s kódem 404),

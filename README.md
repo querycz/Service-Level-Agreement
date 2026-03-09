@@ -11,7 +11,7 @@
 
 ## Volitelné kontroly zahrnují
 - pravidelný týdenní reporting (dostupnost webu, návštěvnost webu, proběhlé aktualizace, proběhlé zálohy),
-- nastavení analytiky návštěvnosti na rámex Google Analytics,
+- nastavení analytiky návštěvnosti Plausbile na rámec Google Analytics,
 - pravidelné e2e smoke testování po deployi nových verzí,
 - pravidelnou kontrolu kontaktních formulářů,
 - pravidelnou kontrolu nefunkčních odkazů (položek s kódem 404),
